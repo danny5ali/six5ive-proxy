@@ -1,0 +1,12 @@
+{
+  "name": "six5ive-proxy",
+  "version": "1.0.0",
+  "description": "api proxy for six5ive studios newsletter tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
